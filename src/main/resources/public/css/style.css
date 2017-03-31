@@ -1,0 +1,13 @@
+html, body {
+}
+button {
+    margin: 20px 40px;
+    width: 70px;
+}
+.content {
+    padding: 100px;
+}
+#complete {
+    margin: 0 auto;
+    text-align: center;
+}

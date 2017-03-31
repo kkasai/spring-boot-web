@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://192.168.33.10/sample?characterEncoding=UTF-8
+    username: myapp
+    password: myapp
+    driverClassName: com.mysql.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
